@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="小区物业管理系统">
+</Property><Property Name="解决方案文件" Value="D:\Users\Administrator\Desktop\C#物业管理CS程序\小区物业管理系统.sln">
+</Property><Property Name="Date" Value="2018年1月2日 星期二">
+</Property><Property Name="Time" Value="14:11">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="小区物业管理系统.sln" Description="文件已成功备份为 D:\Users\Administrator\Desktop\C#物业管理CS程序\Backup\小区物业管理系统.sln">
+</Event><Event ErrorLevel="4" Project="小区物业管理系统" Source="http://go.microsoft.com/fwlink/?LinkId=159919" Description="警告: 此项目要求安装 Visual Studio 中不再包含的 Crystal Reports。有关详细信息，请单击此处。">
+</Event><Event ErrorLevel="0" Project="小区物业管理系统" Source="小区物业管理系统.csproj" Description="项目文件已成功备份为 D:\Users\Administrator\Desktop\C#物业管理CS程序\Backup\小区物业管理系统.csproj">
+</Event><Event ErrorLevel="0" Project="小区物业管理系统" Source="小区物业管理系统.csproj.user" Description="项目用户文件成功备份为 D:\Users\Administrator\Desktop\C#物业管理CS程序\Backup\小区物业管理系统.csproj.user">
+</Event><Event ErrorLevel="0" Project="小区物业管理系统" Source="bm_add.cs" Description="文件已成功备份为 D:\Users\Administrator\Desktop\C#物业管理CS程序\Backup\bm_add.cs">
+</Event><Event ErrorLevel="0" Project="小区物业管理系统" Source="bm_add.Designer.cs" Description="文件已成功备份为 D:\Users\Administrator\Desktop\C#物业管理CS程序\Backup\bm_add.Designer.cs">
+</Event><Event ErrorLevel="0" Project="小区物业管理系统" Source="bm_list.cs" Description="文件已成功备份为 D:\Users\Administrator\Desktop\C#物业管理CS程序\Backup\bm_list.cs">
+</Event><Event ErrorLevel="0" Project="小区物业管理系统" Source="bm_list.Designer.cs" Description="文件已成功备份为 D:\Users\Administrator\Desktop\C#物业管理CS程序\Backup\bm_list.Designer.cs">
+</Event><Event ErrorLevel="0" Project="小区物业管理系统" Source="Class1.cs" Description="文件已成功备份为 D:\Users\Administrator\Desktop\C#物业管理CS程序\Backup\Class1.cs">
+</Event><Event ErrorLevel="0" Project="小区物业管理系统" Source="fj_add.cs" Description="文件已成功备份为 D:\Users\Administrator\Desktop\C#物业管理CS程序\Backup\fj_add.cs">
+</Event><Event ErrorLevel="0" Project="小区物业管理系统" Source="fj_add.Designer.cs" Description="文件已成功备份为 D:\Users\Administrator\Desktop\C#物业管理CS程序\Backup\fj_add.Designer.cs">
+</Event><Event ErrorLevel="0" Project="小区物业管理系统" Source="fj_list.cs" Description="文件已成功备份为 D:\Users\Administrator\Desktop\C#物业管理CS程序\Backup\fj_list.cs">
+</Event><Event ErrorLevel="0" Project="小区物业管理系统" Source="fj_list.Designer.cs" Description="文件已成功备份为 D:\Users\Administrator\Desktop\C#物业管理CS程序\Backup\fj_list.Designer.cs">
+</Event><Event ErrorLevel="0" Project="小区物业管理系统" Source="Form1.cs" Description="文件已成功备份为 D:\Users\Administrator\Desktop\C#物业管理CS程序\Backup\Form1.cs">
+</Event><Event ErrorLevel="0" Project="小区物业管理系统" Source="Form1.Designer.cs" Description="文件已成功备份为 D:\Users\Administrator\Desktop\C#物业管理CS程序\Backup\Form1.Designer.cs">
+</Event><Event ErrorLevel="0" Project="小区物业管理系统" Source="Form2.cs" Description="文件已成功备份为 D:\Users\Administrator\Desktop\C#物业管理CS程序\Backup\Form2.cs">
+</Event><Event ErrorLevel="0" Project="小区物业管理系统" Source="Form2.Designer.cs" Description="文件已成功备份为 D:\Users\Administrator\Desktop\C#物业管理CS程序\Backup\Form2.Designer.cs">
+</Event><Event ErrorLevel="0" Project="小区物业管理系统" Source="Form3.cs" Description="文件已成功备份为 D:\Users\Administrator\Desktop\C#物业管理CS程序\Backup\Form3.cs">
+</Event><Event ErrorLevel="0" Project="小区物业管理系统" Source="Form3.Designer.cs" Description="文件已成功备份为 D:\Users\Administrator\Desktop\C#物业管理CS程序\Backup\Form3.Designer.cs">
+</Event><Event ErrorLevel="0" Project="小区物业管理系统" Source="Form4.cs" Description="文件已成功备份为 D:\Users\Administrator\Desktop\C#物业管理CS程序\Backup\Form4.cs">
+</Event><Event ErrorLevel="0" Project="小区物业管理系统" Source="Form4.Designer.cs" Description="文件已成功备份为 D:\Users\Administrator\Desktop\C#物业管理CS程序\Backup\Form4.Designer.cs">
+</Event><Event ErrorLevel="0" Project="小区物业管理系统" Source="Form8.cs" Description="文件已成功备份为 D:\Users\Administrator\Desktop\C#物业管理CS程序\Backup\Form8.cs">
+</Event><Event ErrorLevel="0" Project="小区物业管理系统" Source="Form8.Designer.cs" Description="文件已成功备份为 D:\Users\Administrator\Desktop\C#物业管理CS程序\Backup\Form8.Designer.cs">
+</Event><Event ErrorLevel="0" Project="小区物业管理系统" Source="fy_add.cs" Description="文件已成功备份为 D:\Users\Administrator\Desktop\C#物业管理CS程序\Backup\fy_add.cs">
+</Event><Event ErrorLevel="0" Project="小区物业管理系统" Source="fy_add.Designer.cs" Description="文件已成功备份为 D:\Users\Administrator\Desktop\C#物业管理CS程序\Backup\fy_add.Designer.cs">
+</Event><Event ErrorLevel="0" Project="小区物业管理系统" Source="fy_list.cs" Description="文件已成功备份为 D:\Users\Administrator\Desktop\C#物业管理CS程序\Backup\fy_list.cs">
+</Event><Event ErrorLevel="0" Project="小区物业管理系统" Source="fy_list.Designer.cs" Description="文件已成功备份为 D:\Users\Administrator\Desktop\C#物业管理CS程序\Backup\fy_list.Designer.cs">
+</Event><Event ErrorLevel="0" Project="小区物业管理系统" Source="gz_add.cs" Description="文件已成功备份为 D:\Users\Administrator\Desktop\C#物业管理CS程序\Backup\gz_add.cs">
+</Event><Event ErrorLevel="0" Project="小区物业管理系统" Source="gz_add.Designer.cs" Description="文件已成功备份为 D:\Users\Administrator\Desktop\C#物业管理CS程序\Backup\gz_add.Designer.cs">
+</Event><Event ErrorLevel="0" Project="小区物业管理系统" Source="gz_list.cs" Description="文件已成功备份为 D:\Users\Administrator\Desktop\C#物业管理CS程序\Backup\gz_list.cs">
+</Event><Event ErrorLevel="0" Project="小区物业管理系统" Source="gz_list.Designer.cs" Description="文件已成功备份为 D:\Users\Administrator\Desktop\C#物业管理CS程序\Backup\gz_list.Designer.cs">
+</Event><Event ErrorLevel="0" Project="小区物业管理系统" Source="ly_add.cs" Description="文件已成功备份为 D:\Users\Administrator\Desktop\C#物业管理CS程序\Backup\ly_add.cs">
+</Event><Event ErrorLevel="0" Project="小区物业管理系统" Source="ly_add.Designer.cs" Description="文件已成功备份为 D:\Users\Administrator\Desktop\C#物业管理CS程序\Backup\ly_add.Designer.cs">
+</Event><Event ErrorLevel="0" Project="小区物业管理系统" Source="ly_list.cs" Description="文件已成功备份为 D:\Users\Administrator\Desktop\C#物业管理CS程序\Backup\ly_list.cs">
+</Event><Event ErrorLevel="0" Project="小区物业管理系统" Source="ly_list.Designer.cs" Description="文件已成功备份为 D:\Users\Administrator\Desktop\C#物业管理CS程序\Backup\ly_list.Designer.cs">
+</Event><Event ErrorLevel="0" Project="小区物业管理系统" Source="Program.cs" Description="文件已成功备份为 D:\Users\Administrator\Desktop\C#物业管理CS程序\Backup\Program.cs">
+</Event><Event ErrorLevel="0" Project="小区物业管理系统" Source="Properties\AssemblyInfo.cs" Description="文件已成功备份为 D:\Users\Administrator\Desktop\C#物业管理CS程序\Backup\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="小区物业管理系统" Source="Properties\Resources.Designer.cs" Description="文件已成功备份为 D:\Users\Administrator\Desktop\C#物业管理CS程序\Backup\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="小区物业管理系统" Source="Properties\Settings.Designer.cs" Description="文件已成功备份为 D:\Users\Administrator\Desktop\C#物业管理CS程序\Backup\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="小区物业管理系统" Source="yg_add.cs" Description="文件已成功备份为 D:\Users\Administrator\Desktop\C#物业管理CS程序\Backup\yg_add.cs">
+</Event><Event ErrorLevel="0" Project="小区物业管理系统" Source="yg_add.Designer.cs" Description="文件已成功备份为 D:\Users\Administrator\Desktop\C#物业管理CS程序\Backup\yg_add.Designer.cs">
+</Event><Event ErrorLevel="0" Project="小区物业管理系统" Source="yg_list.cs" Description="文件已成功备份为 D:\Users\Administrator\Desktop\C#物业管理CS程序\Backup\yg_list.cs">
+</Event><Event ErrorLevel="0" Project="小区物业管理系统" Source="yg_list.Designer.cs" Description="文件已成功备份为 D:\Users\Administrator\Desktop\C#物业管理CS程序\Backup\yg_list.Designer.cs">
+</Event><Event ErrorLevel="0" Project="小区物业管理系统" Source="yz_add.cs" Description="文件已成功备份为 D:\Users\Administrator\Desktop\C#物业管理CS程序\Backup\yz_add.cs">
+</Event><Event ErrorLevel="0" Project="小区物业管理系统" Source="yz_add.Designer.cs" Description="文件已成功备份为 D:\Users\Administrator\Desktop\C#物业管理CS程序\Backup\yz_add.Designer.cs">
+</Event><Event ErrorLevel="0" Project="小区物业管理系统" Source="yz_list.cs" Description="文件已成功备份为 D:\Users\Administrator\Desktop\C#物业管理CS程序\Backup\yz_list.cs">
+</Event><Event ErrorLevel="0" Project="小区物业管理系统" Source="yz_list.Designer.cs" Description="文件已成功备份为 D:\Users\Administrator\Desktop\C#物业管理CS程序\Backup\yz_list.Designer.cs">
+</Event><Event ErrorLevel="0" Project="小区物业管理系统" Source="app.config" Description="文件已成功备份为 D:\Users\Administrator\Desktop\C#物业管理CS程序\Backup\app.config">
+</Event><Event ErrorLevel="0" Project="小区物业管理系统" Source="Properties\Settings.settings" Description="文件已成功备份为 D:\Users\Administrator\Desktop\C#物业管理CS程序\Backup\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="小区物业管理系统" Source="bm_add.resx" Description="文件已成功备份为 D:\Users\Administrator\Desktop\C#物业管理CS程序\Backup\bm_add.resx">
+</Event><Event ErrorLevel="0" Project="小区物业管理系统" Source="bm_list.resx" Description="文件已成功备份为 D:\Users\Administrator\Desktop\C#物业管理CS程序\Backup\bm_list.resx">
+</Event><Event ErrorLevel="0" Project="小区物业管理系统" Source="fj_add.resx" Description="文件已成功备份为 D:\Users\Administrator\Desktop\C#物业管理CS程序\Backup\fj_add.resx">
+</Event><Event ErrorLevel="0" Project="小区物业管理系统" Source="fj_list.resx" Description="文件已成功备份为 D:\Users\Administrator\Desktop\C#物业管理CS程序\Backup\fj_list.resx">
+</Event><Event ErrorLevel="0" Project="小区物业管理系统" Source="Form1.resx" Description="文件已成功备份为 D:\Users\Administrator\Desktop\C#物业管理CS程序\Backup\Form1.resx">
+</Event><Event ErrorLevel="0" Project="小区物业管理系统" Source="Form2.resx" Description="文件已成功备份为 D:\Users\Administrator\Desktop\C#物业管理CS程序\Backup\Form2.resx">
+</Event><Event ErrorLevel="0" Project="小区物业管理系统" Source="Form3.resx" Description="文件已成功备份为 D:\Users\Administrator\Desktop\C#物业管理CS程序\Backup\Form3.resx">
+</Event><Event ErrorLevel="0" Project="小区物业管理系统" Source="Form4.resx" Description="文件已成功备份为 D:\Users\Administrator\Desktop\C#物业管理CS程序\Backup\Form4.resx">
+</Event><Event ErrorLevel="0" Project="小区物业管理系统" Source="Form8.resx" Description="文件已成功备份为 D:\Users\Administrator\Desktop\C#物业管理CS程序\Backup\Form8.resx">
+</Event><Event ErrorLevel="0" Project="小区物业管理系统" Source="fy_add.resx" Description="文件已成功备份为 D:\Users\Administrator\Desktop\C#物业管理CS程序\Backup\fy_add.resx">
+</Event><Event ErrorLevel="0" Project="小区物业管理系统" Source="fy_list.resx" Description="文件已成功备份为 D:\Users\Administrator\Desktop\C#物业管理CS程序\Backup\fy_list.resx">
+</Event><Event ErrorLevel="0" Project="小区物业管理系统" Source="gz_add.resx" Description="文件已成功备份为 D:\Users\Administrator\Desktop\C#物业管理CS程序\Backup\gz_add.resx">
+</Event><Event ErrorLevel="0" Project="小区物业管理系统" Source="gz_list.resx" Description="文件已成功备份为 D:\Users\Administrator\Desktop\C#物业管理CS程序\Backup\gz_list.resx">
+</Event><Event ErrorLevel="0" Project="小区物业管理系统" Source="ly_add.resx" Description="文件已成功备份为 D:\Users\Administrator\Desktop\C#物业管理CS程序\Backup\ly_add.resx">
+</Event><Event ErrorLevel="0" Project="小区物业管理系统" Source="ly_list.resx" Description="文件已成功备份为 D:\Users\Administrator\Desktop\C#物业管理CS程序\Backup\ly_list.resx">
+</Event><Event ErrorLevel="0" Project="小区物业管理系统" Source="Properties\Resources.resx" Description="文件已成功备份为 D:\Users\Administrator\Desktop\C#物业管理CS程序\Backup\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="小区物业管理系统" Source="Report1.rdlc" Description="文件已成功备份为 D:\Users\Administrator\Desktop\C#物业管理CS程序\Backup\Report1.rdlc">
+</Event><Event ErrorLevel="0" Project="小区物业管理系统" Source="yg_add.resx" Description="文件已成功备份为 D:\Users\Administrator\Desktop\C#物业管理CS程序\Backup\yg_add.resx">
+</Event><Event ErrorLevel="0" Project="小区物业管理系统" Source="yg_list.resx" Description="文件已成功备份为 D:\Users\Administrator\Desktop\C#物业管理CS程序\Backup\yg_list.resx">
+</Event><Event ErrorLevel="0" Project="小区物业管理系统" Source="yz_add.resx" Description="文件已成功备份为 D:\Users\Administrator\Desktop\C#物业管理CS程序\Backup\yz_add.resx">
+</Event><Event ErrorLevel="0" Project="小区物业管理系统" Source="yz_list.resx" Description="文件已成功备份为 D:\Users\Administrator\Desktop\C#物业管理CS程序\Backup\yz_list.resx">
+</Event><Event ErrorLevel="1" Project="小区物业管理系统" Source="小区物业管理系统.csproj" Description="您的项目以 .NET Framework 2.0 或 3.0 为目标。如果您的项目使用的程序集需要更新的 .NET Framework，则项目生成将失败。通过单击项目菜单上的“属性”，然后在“.NET Framework”下拉框中选择一个新版本，可以更改 .NET Framework 的版本。(在 Visual Basic 中，可在单击“高级编辑器选项...”按钮时显示的“编译”选项卡上找到此下拉框。)">
+</Event><Event ErrorLevel="0" Project="小区物业管理系统" Source="小区物业管理系统.csproj" Description="项目已成功转换">
+</Event><Event ErrorLevel="3" Project="小区物业管理系统" Source="小区物业管理系统.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="小区物业管理系统.sln" Description="成功转换解决方案">
+</Event><Event ErrorLevel="3" Project="" Source="小区物业管理系统.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="小区物业管理系统" Source="小区物业管理系统.csproj" Description="扫描完成: 项目文件不需要升级。">
+</Event></UpgradeLog>
